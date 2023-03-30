@@ -35,6 +35,34 @@
         "category":"Bills",
         "amount":3000,
         "date":"2023-03-19"
+      },
+      {
+        "id":5,
+        "type":"Income",
+        "category":"Refunds",
+        "amount":4000,
+        "date":"2023-03-01"
+      },
+      {
+        "id":6,
+        "type":"Expense",
+        "category":"Food & Drinks",
+        "amount":2000,
+        "date":"2023-03-11"
+      },
+      {
+        "id":7,
+        "type":"Expense",
+        "category":"Shopping",
+        "amount":9000,
+        "date":"2023-03-15"
+      },
+      {
+        "id":8,
+        "type":"Expense",
+        "category":"Housing",
+        "amount":3000,
+        "date":"2023-03-19"
       }
     ]
   }
