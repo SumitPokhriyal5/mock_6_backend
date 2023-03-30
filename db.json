@@ -10,31 +10,31 @@
     "data":[
       {
         "id":1,
-        "type":"income",
-        "category":"salary",
+        "type":"Income",
+        "category":"Salary",
         "amount":4000,
-        "date":"26/Mar/2021"
+        "date":"2023-03-01"
       },
       {
         "id":2,
-        "type":"income",
-        "category":"gifts",
+        "type":"Income",
+        "category":"Gifts",
         "amount":2000,
-        "date":"14/Jan/2022"
+        "date":"2023-03-11"
       },
       {
         "id":3,
-        "type":"expense",
-        "category":"lifestyle",
+        "type":"Expense",
+        "category":"Lifestyle",
         "amount":9000,
-        "date":"26/Mar/2023"
+        "date":"2023-03-15"
       },
       {
         "id":4,
-        "type":"expense",
-        "category":"bills",
+        "type":"Expense",
+        "category":"Bills",
         "amount":3000,
-        "date":"29/Mar/2023"
+        "date":"2023-03-19"
       }
     ]
   }
